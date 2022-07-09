@@ -1,7 +1,7 @@
 {
-  "webhookID": "",
-  "webhookToken": "",
+  "webhookID": "995359354402381895",
+  "webhookToken": "eImRhwmcdApcoklSsqFayd3TVhbilZGFu8ZXRHXQNuWCTXUVHXisq1C67J3qeWbaxkwA",
   "interval": 2,
-  "watchlist": ["ethereum", "bitcoin"],
+  "watchlist": ["ethereum", "bitcoin", "polygon", "bnb"],
   "compare": ["usd", "eur"]
 }

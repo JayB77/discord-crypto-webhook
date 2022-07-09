@@ -22,7 +22,7 @@ const sendPrices = async () => {
       embed.fields.push({name: i + " -> " + j, value: data.data[i][j] })
     }
   }
-  webhookClient.send("Crypto Prices", {embeds: [embed]})
+  webhookClient.send("🚀│price-updates", {embeds: [embed]})
 }
 
 const delay = async () => {
